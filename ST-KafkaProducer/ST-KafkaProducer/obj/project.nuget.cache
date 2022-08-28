@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JLx/GFtFf/bHsmDpVj/qj9hwsYaivQwqFP9PwiZdrM8vgFEffwQoIajIjIEYWUMpJCEhtoKkyFY0VaYSmqUSXg==",
+  "success": true,
+  "projectFilePath": "C:\\D Drive\\Abhilash\\Projects\\ST-KafkaProducer\\ST-KafkaProducer\\ST-KafkaProducer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\confluent.kafka\\1.9.2\\confluent.kafka.1.9.2.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\librdkafka.redist\\1.9.2\\librdkafka.redist.1.9.2.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
